@@ -1,0 +1,37 @@
+E:\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartSMSSystem.frmActivation.resources
+E:\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.Forms.frmItemMaster.resources
+E:\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartSMSSystem.frmLogin.resources
+E:\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.MainMDI.resources
+E:\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.Properties.Resources.resources
+E:\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.csproj.GenerateResource.Cache
+E:\vinod prac\SmartTrading\SmartTrading\bin\Debug\SmartTrading.exe
+E:\vinod prac\SmartTrading\SmartTrading\bin\Debug\SmartTrading.pdb
+E:\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.exe
+E:\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.pdb
+E:\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.exe
+E:\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.pdb
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.exe
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.pdb
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\bin\Debug\SmartTrading.exe
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\bin\Debug\SmartTrading.pdb
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.csprojResolveAssemblyReference.cache
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartSMSSystem.frmActivation.resources
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.Forms.frmCustomerMaster.resources
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.Forms.frmItemMaster.resources
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartSMSSystem.frmLogin.resources
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.MainMDI.resources
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.Properties.Resources.resources
+E:\vij\Vijay\vinod prac\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.csproj.GenerateResource.Cache
+E:\SmartTrading\SmartTrading\bin\Debug\SmartTrading.exe
+E:\SmartTrading\SmartTrading\bin\Debug\SmartTrading.pdb
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.csprojResolveAssemblyReference.cache
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartSMSSystem.frmActivation.resources
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.Forms.frmCustomerMaster.resources
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.Forms.frmItemMaster.resources
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartSMSSystem.frmLogin.resources
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.MainMDI.resources
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.Properties.Resources.resources
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.csproj.GenerateResource.Cache
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.exe
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.pdb
+E:\SmartTrading\SmartTrading\obj\x86\Debug\SmartTrading.Forms.frmSingleFieldMaster.resources
